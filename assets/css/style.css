@@ -81,8 +81,7 @@ h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 16px 0;
-  background: url("../img/footer-bg1.jpg") center center no-repeat;
-  /*background: #213b52;
+  background: #213b52;
 }
 
 #header .logo h1 {
